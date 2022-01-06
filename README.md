@@ -7,7 +7,6 @@ To use this theme in better discord,
 
 Press win + r, type in "%appdata%" without the quotations and hit enter.
 Once the file manager opens up, double click on the "Better Discord" folder and paste the css in.
- ------------------------------------------------------------------------------------------------
  
  After this, open your discord app,
  Go to user settings, Click on "themes"
